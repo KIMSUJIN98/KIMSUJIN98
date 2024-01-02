@@ -15,15 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- Readme Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=KIMSUJIN98%20GitHub&fontAlign=70&fontAlignY=35&fontColor=FFFFFF&fontSize=50" />
-
-<!-- Readme Badge: Tech Stack 
-<img src="https://img.shields.io/badge/아이콘내용-바탕색?style=flat&logo=로고이름&logoColor=white"/>
--->
 
 <div align="center">
 	
+<!-- Readme Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=KIMSUJIN98%20GitHub&fontAlign=70&fontAlignY=35&fontColor=FFFFFF&fontSize=50" />
+
+
+<!-- Readme Badge: Tech Stack 
+<img src="https://img.shields.io/badge/아이콘내용-바탕색?style=flat&logo=로고이름&logoColor=white"/> -->
+
 📚 Tech Stack 📚
 
 ✨ Platforms & Languages ✨
