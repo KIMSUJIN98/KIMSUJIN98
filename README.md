@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### Hi there 👋
  
 <!-- Readme Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=KIMSUJIN98%20GitHub%20👋&fontAlign=70&fontAlignY=35&fontColor=FFFFFF&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=KIMSUJIN98%20GitHub%20👋&fontAlign=70&fontAlignY=35&fontColor=FFFFFF&fontSize=40" />
 
 
 <!-- Readme Badge: Tech Stack 
