@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
 </div>
 
-<br>🛠️ Tools 🛠️<br>
+<h4>🛠️ Tools 🛠️</h4>
 
 <div>
 	<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=eclipseide&logoColor=white" />
@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
 </div>
 
-<br>💾 SNS & Portfolio 💾<br>
+<h4>💾 SNS & Portfolio 💾</h4>
 
 <div>
 	<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />
