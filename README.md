@@ -29,8 +29,8 @@ Hello!  My name is Sujin Kim!  Welcome to my profile 👋
 
 <h3>👨‍💻 About me 👨‍💻</h3>
 
-**👨‍💻** **Developed** | Online & Offline Meeting Community Platform (2023 Jan ~ May) <br>
-**👨‍💻** **Developed** | Running Course Recommendation Platform (2022 Nov ~ Dec) <br>
+**👨‍💻** **Developed** | soboroo - Online & Offline Meeting Community Platform (2023 Jan ~ May) <br>
+**👨‍💻** **Developed** | OVCOS - Running Course Recommendation Platform (2022 Nov ~ Dec) <br>
 **🌱** **Training Education** | Web Developer Training Course Completion at KH Information Education Center (2022 Oct  ~ 2023 May) <br>
 **🏫** **Major** | Graduated from a bachelor's degree in Information & Communications Engineering (2017 Mar  ~ 2023 Feb)
  
