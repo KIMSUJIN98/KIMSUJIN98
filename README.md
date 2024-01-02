@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 <!-- Readme Badge: Tech Stack 
 <img src="https://img.shields.io/badge/아이콘내용-바탕색?style=flat&logo=로고이름&logoColor=white"/> -->
 
-📚 Tech Stack 📚<br>
+<h3>📚 Tech Stack 📚</h3>
 
-✨ Platforms & Languages ✨<br>
+<h4>✨ Platforms & Languages ✨</h4>
 
 <div>
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
