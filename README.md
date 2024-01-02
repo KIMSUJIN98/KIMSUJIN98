@@ -20,15 +20,21 @@ Here are some ideas to get you started:
 <!-- Readme Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=KIMSUJIN98%20GitHub%20👋&fontAlign=70&fontAlignY=35&fontColor=FFFFFF&fontSize=40" />
 
-## Hello 👋
+
+<h3>Hello 👋</h3>
 
 Hello!  My name is Sujin Kim!  Welcome to my profile 👋 
 
-### 👨‍💻 About me 👨‍💻
+<br>
 
-- **👨‍💻** **Developed** Online & Offline Meeting Community Platform (2023 Jan ~ May)
-- **👨‍💻** **Developed** Running Course Recommendation Platform (2022 Nov ~ Dec) 
-- **🌱** **Training Education** 6 months of Web Developer Training Course Completion at KH Information Education Center
+<h3>👨‍💻 About me 👨‍💻</h3>
+
+**👨‍💻** **Developed** | Online & Offline Meeting Community Platform (2023 Jan ~ May) <br>
+**👨‍💻** **Developed** | Running Course Recommendation Platform (2022 Nov ~ Dec) <br>
+**🌱** **Training Education** | Web Developer Training Course Completion at KH Information Education Center (2022 Oct  ~ 2023 May) <br>
+**🏫** **Major** | Graduated from a bachelor's degree in Information & Communications Engineering (2017 Mar  ~ 2023 Feb)
+ 
+<br>
 
 <!-- Readme Badge: Tech Stack 
 <img src="https://img.shields.io/badge/아이콘내용-바탕색?style=flat&logo=로고이름&logoColor=white"/> -->
