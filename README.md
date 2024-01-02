@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- Readme Header -->
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=KIMSUJIN98GitHub%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=KIMSUJIN98%20GitHub&fontSize=90" />
 
 <!-- Readme Badge: Tech Stack 
 <img src="https://img.shields.io/badge/아이콘내용-바탕색?style=flat&logo=로고이름&logoColor=white"/>
