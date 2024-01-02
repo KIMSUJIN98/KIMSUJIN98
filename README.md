@@ -1,3 +1,4 @@
+<!-- ### Hi there 👋 -->
 <!--
 **KIMSUJIN98/KIMSUJIN98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,8 +16,6 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-
-### Hi there 👋
  
 <!-- Readme Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=KIMSUJIN98%20GitHub%20👋&fontAlign=70&fontAlignY=35&fontColor=FFFFFF&fontSize=40" />
