@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
 </div>
 
-<br><br>🛠️ Tools 🛠️<br>
+<br>🛠️ Tools 🛠️<br>
 
 <div>
 	<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=eclipseide&logoColor=white" />
@@ -55,14 +55,14 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
 </div>
 
-<br><br>💾 SNS & Portfolio 💾<br>
+<br>💾 SNS & Portfolio 💾<br>
 
 <div>
 	<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />
 	<img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white" />
 </div>
 
-<br><br><br><br>
+<br><br>
 <!-- Readme Widget -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KIMSUJIN98&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=KIMSUJIN98&show_icons=true">
