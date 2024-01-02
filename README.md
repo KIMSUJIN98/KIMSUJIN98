@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **KIMSUJIN98/KIMSUJIN98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +15,9 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-	
+
+### Hi there 👋
+ 
 <!-- Readme Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=KIMSUJIN98%20GitHub&fontAlign=70&fontAlignY=35&fontColor=FFFFFF&fontSize=50" />
 
@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 <!-- Readme Badge: Tech Stack 
 <img src="https://img.shields.io/badge/아이콘내용-바탕색?style=flat&logo=로고이름&logoColor=white"/> -->
 
-📚 Tech Stack 📚
+📚 Tech Stack 📚<br>
 
-✨ Platforms & Languages ✨
+✨ Platforms & Languages ✨<br>
 
 <div>
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
 </div>
 
-🛠️ Tools 🛠️
+<br><br>🛠️ Tools 🛠️<br>
 
 <div>
 	<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=eclipseide&logoColor=white" />
@@ -55,13 +55,14 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
 </div>
 
-💾 SNS & Portfolio 💾
+<br><br>💾 SNS & Portfolio 💾<br>
 
 <div>
 	<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />
 	<img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white" />
 </div>
 
+<br><br><br><br>
 <!-- Readme Widget -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KIMSUJIN98&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=KIMSUJIN98&show_icons=true">
