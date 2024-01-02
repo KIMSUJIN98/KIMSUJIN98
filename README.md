@@ -38,10 +38,11 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/Oracle SQL-F80000?style=flat&logo=oracle&logoColor=white" />
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 	<img src="https://img.shields.io/badge/Mybatis-000000?style=flat&logo=Fluentd&logoColor=white" />
-	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+	<!--<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />-->
 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" />
-	<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
+	<!--<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />-->
 	<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
+	<!--<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />-->
 </div>
 
 <h4>🛠️ Tools 🛠️</h4>
@@ -49,8 +50,7 @@ Here are some ideas to get you started:
 <div>
 	<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=eclipseide&logoColor=white" />
 	<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
-</div>
-<div>
+	<br>
 	<img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
 </div>
@@ -58,8 +58,20 @@ Here are some ideas to get you started:
 <h4>💾 SNS & Portfolio 💾</h4>
 
 <div>
-	<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />
-	<img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white" />
+	<a href="#">
+		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
+	</a>
+	<a href="mailto:qwer9402@naver.com">
+		<img src="https://img.shields.io/badge/Mail-03C75A?style=flat&logo=naver&logoColor=white" />
+	</a>
+	<!-- 노션 주소 메인페이지로 추후 변경 예정 -->
+	<a href="https://www.notion.so/OVCOS-fa9e71071a31446c99d4810232c97833?pvs=4">
+		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />
+	</a>
+	<a href="https://velog.io/@qwer9402/posts">
+		<img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white" />
+	</a>
+	
 </div>
 
 <br><br>
