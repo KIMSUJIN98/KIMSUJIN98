@@ -1,20 +1,3 @@
-<!-- ### Hi there 👋 -->
-<!--
-**KIMSUJIN98/KIMSUJIN98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 <div align="center">
  
 <!-- Readme Header -->
@@ -29,6 +12,7 @@ Hello!  My name is Sujin Kim!  Welcome to my profile 👋
 
 <h3>👨‍💻 About me 👨‍💻</h3>
 
+**🌱** **Google Career Certificates Program** | Google IT Support Certificates (2024 Jan ~ Now) <br>
 **👨‍💻** **Developed** | soboroo - Online & Offline Meeting Community Platform (2023 Mar ~ May) <br>
 **👨‍💻** **Developed** | OVCOS - Running Course Recommendation Platform (2023 Jan ~ Mar) <br>
 **🌱** **Training Education** | Web Developer Training Course Completion at KH Information Education Center (2022 Oct  ~ 2023 May) <br>
