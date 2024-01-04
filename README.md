@@ -57,9 +57,9 @@ Hello!  My name is Sujin Kim!  Welcome to my profile 👋
 <h4>💾 SNS & Portfolio 💾</h4>
 
 <div>
-	<a href="#">
+	<!--<a href="#">
 		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
-	</a>
+	</a>-->
 	<a href="mailto:qwer9402@naver.com">
 		<img src="https://img.shields.io/badge/Mail-03C75A?style=flat&logo=naver&logoColor=white" />
 	</a>
