@@ -12,11 +12,11 @@ Hello!  My name is Sujin Kim!  Welcome to my profile 👋
 
 <h3>👨‍💻 About me 👨‍💻</h3>
 
-**🌱** **Google Career Certificates Program** | Google IT Support Certificates (2024 Jan ~ Now) <br>
-**👨‍💻** **Developed** | soboroo - Online & Offline Meeting Community Platform (2023 Mar ~ May) <br>
-**👨‍💻** **Developed** | OVCOS - Running Course Recommendation Platform (2023 Jan ~ Mar) <br>
-**🌱** **Training Education** | Web Developer Training Course Completion at KH Information Education Center (2022 Oct  ~ 2023 May) <br>
-**🏫** **Major** | Graduated from a bachelor's degree in Information & Communications Engineering (2017 Mar  ~ 2023 Feb)
+**🌱** **Google Career Certificates Program** | *Google IT Support Certificates (2024 Jan ~ Now)* <br>
+**👨‍💻** **Developed** | *soboroo - Online & Offline Meeting Community Platform (2023 Mar ~ May)* <br>
+**👨‍💻** **Developed** | *OVCOS - Running Course Recommendation Platform (2023 Jan ~ Mar)* <br>
+**🌱** **Training Education** | *Web Developer Training Course Completion at KH Information Education Center (2022 Oct  ~ 2023 May)* <br>
+**🏫** **Major** | *Graduated from a bachelor's degree in Information & Communications Engineering (2017 Mar  ~ 2023 Feb)*
  
 <br>
 
@@ -72,6 +72,11 @@ Hello!  My name is Sujin Kim!  Welcome to my profile 👋
 	</a>
 	
 </div>
+
+<h4>📖 Certificate 📖</h4>
+
+**😎** *SQL Developer (SQLD)* <br>
+**😎** *Network Administrator Level 2*
 
 <br><br>
 <!-- Readme Widget -->
