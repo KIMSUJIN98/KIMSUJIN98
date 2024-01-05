@@ -81,6 +81,6 @@ Hello!  My name is Sujin Kim!  Welcome to my profile 👋
 <br><br>
 <!-- Readme Widget -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KIMSUJIN98&layout=compact"><br><br>
-<!--<img src="https://github-readme-stats.vercel.app/api?username=KIMSUJIN98&show_icons=true">-->
+<img src="https://github-readme-stats.vercel.app/api?username=KIMSUJIN98&show_icons=true">
 
 </div>
